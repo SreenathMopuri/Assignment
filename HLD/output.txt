@@ -1,0 +1,5 @@
+Total IPv4 address count: 200000
+Total IPv6 address count: 200000
+Unique IPv4 address count: 99928
+Unique IPv6 address count: 100000
+Invalid IP address count: 215249
